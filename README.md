@@ -9,10 +9,9 @@ This is a basic CRUD application for managing employee records. It is built usin
 
 ## Installation
 Clone the repository:
+git clone <repository-url>
 
-   ```bash
-   git clone <repository-url>
-   cd employee_management_system
+cd emp_mng_sys
 
 1. Install dependencies:
 pip install -r requirements.txt
